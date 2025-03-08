@@ -1,0 +1,5 @@
+2025.3.8：
+完成基本main.py，成功部署环境，以及hello world成功！
+
+3.9:
+Git仓库创建成功，花了10块钱买deepseek api
